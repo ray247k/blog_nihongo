@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日文學習筆記</title>
+    <link>https://example.org/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/%E7%B7%9A%E4%B8%8A%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content on 日文學習筆記</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://example.org/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/%E7%B7%9A%E4%B8%8A%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.org/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/%E7%B7%9A%E4%B8%8A%E5%B7%A5%E5%85%B7/%E5%90%8D%E5%AD%97%E8%BD%89%E6%8F%9B%E7%89%87%E5%81%87%E5%90%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/%E7%B7%9A%E4%B8%8A%E5%B7%A5%E5%85%B7/%E5%90%8D%E5%AD%97%E8%BD%89%E6%8F%9B%E7%89%87%E5%81%87%E5%90%8D/</guid>
+      <description>名字轉換片假名 フリガナ(ふりがな) # 各位可曾思考過，自己的名字要如何用日文來發音呢？&#xA;名字轉換片假名 フリガナ(ふりがな)&#xA;「名前」與「フリガナ」&#xA;漢字的拼音轉日本片假名&#xA;繁体字ピンイン変換 | どんと来い、中国語&#xA;Name變換君 - 快速將你的名字翻譯並轉換成日文名字，包括日文漢字、片假名、平假名</description>
+    </item>
+  </channel>
+</rss>
