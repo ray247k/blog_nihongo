@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>日文學習筆記</title>
-    <link>https://example.org/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/</link>
+    <link>https://nihongo.ray247k.com/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/</link>
     <description>Recent content on 日文學習筆記</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://example.org/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nihongo.ray247k.com/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

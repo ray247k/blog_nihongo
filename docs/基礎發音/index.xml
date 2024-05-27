@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>日文學習筆記</title>
-    <link>https://example.org/docs/%E5%9F%BA%E7%A4%8E%E7%99%BC%E9%9F%B3/</link>
+    <link>https://nihongo.ray247k.com/docs/%E5%9F%BA%E7%A4%8E%E7%99%BC%E9%9F%B3/</link>
     <description>Recent content on 日文學習筆記</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://example.org/docs/%E5%9F%BA%E7%A4%8E%E7%99%BC%E9%9F%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nihongo.ray247k.com/docs/%E5%9F%BA%E7%A4%8E%E7%99%BC%E9%9F%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>重音</title>
-      <link>https://example.org/docs/%E5%9F%BA%E7%A4%8E%E7%99%BC%E9%9F%B3/%E9%87%8D%E9%9F%B3/</link>
+      <link>https://nihongo.ray247k.com/docs/%E5%9F%BA%E7%A4%8E%E7%99%BC%E9%9F%B3/%E9%87%8D%E9%9F%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/docs/%E5%9F%BA%E7%A4%8E%E7%99%BC%E9%9F%B3/%E9%87%8D%E9%9F%B3/</guid>
+      <guid>https://nihongo.ray247k.com/docs/%E5%9F%BA%E7%A4%8E%E7%99%BC%E9%9F%B3/%E9%87%8D%E9%9F%B3/</guid>
       <description>日文當中，發音則是以聲音的高低來區別 以高低音的方式，代表不同單字的發音&#xA;橋（はし）、筷子（はし）&#xA;將音調分成&#xA;高音：在假名上方畫記直線，代表該假名的發音為高音 中音：在假名中間畫記直線，代表該假名的發音為中音 低音：在假名下方畫記直線，代表該假名的發音為低音 假名計算方式 # 長音、促音、拗音也必須當作一個假名計算&#xA;重音符號的表示 # 在單字的後方會有一個框框，中間寫上 0~4 不等的數字 例如：【0】【1】【2】【3】&#xA;隨著單字長度不同，也可能出現 5 號音、甚至 6 號音，不過這類單字數量較少&#xA;【0】 # 稱為 0 號音&#xA;第一個假名為中音，第二個假名之後升為高音 若是單字只有一個假名，則直接發成高音&#xA;は(樹葉)、わたし(我)、にほんご(日語)、さくらんぼ(櫻桃)&#xA;【1】 # 稱為 1 號音&#xA;第一個假名為高音，第二個假名之後降為低音&#xA;ほん(書)、てんき(天氣)、らいげつ(下個月)&#xA;【2】 # 稱為 2 號音&#xA;第一個假名為中音，之後升高音，在第二個假名後降為低音&#xA;たまご(雞蛋)、ひこうき(飛機)、マレーシア(馬來西亞)&#xA;【3】 # 稱為 3 號音&#xA;第一個假名為中音，之後升高音，在第三個假名後降為低音&#xA;せんせい(老師)、おてあらい(洗手間)、ぎんこういん(銀行員)&#xA;【4】 # 稱為 4 號音&#xA;第一個假名為中音，之後升高音，在第四個假名後降為低音&#xA;でんわばんごう(電話號碼)、おおさかじょう(大阪城)&#xA;が # 有些後方會標示「(が)」的單字，例如&#xA;おとうと(が)【4】弟弟 やすみ(が)【3】休假 はな(が)【2】花 き(が)【1】樹 「(が)」代表單字後面接續的助詞，表示重音會在單字後面降為低音&#xA;後方助詞經常用來辨別同音異義字，像是：は（歯、葉） 光看單字本身發音，有時無法判斷屬於哪個意思 這時只要看後方助詞的重音是否下降，就能判斷其屬於哪一種意思了。&#xA;は（が）→ 無下降，屬於【0】，是樹葉的意思。 は（が）→ 有下降，屬於【1】，是牙齒的意思。</description>
     </item>
   </channel>

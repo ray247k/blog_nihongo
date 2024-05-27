@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>日文學習筆記</title>
-    <link>https://example.org/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90/</link>
+    <link>https://nihongo.ray247k.com/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90/</link>
     <description>Recent content on 日文學習筆記</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://example.org/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nihongo.ray247k.com/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.org/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90/%E6%95%99%E6%9D%90%E9%81%B8%E6%93%87/</link>
+      <link>https://nihongo.ray247k.com/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90/%E6%95%99%E6%9D%90%E9%81%B8%E6%93%87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90/%E6%95%99%E6%9D%90%E9%81%B8%E6%93%87/</guid>
+      <guid>https://nihongo.ray247k.com/docs/%E5%AF%A6%E7%94%A8%E5%B7%A5%E5%85%B7/%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90/%E6%95%99%E6%9D%90%E9%81%B8%E6%93%87/</guid>
       <description>教材選擇 # 要怎麼選擇教材&#xA;日本語GOGOGO和大家的日本語哪一本適合自學者？&#xA;N4合格心得文｜把每次考試都當成一次學習的機會&#xA;[日文]完整日文學習指南</description>
     </item>
   </channel>
